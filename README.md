@@ -21,9 +21,6 @@
 
 <br>
 <br>
-
-<h2>🎞I did it</h2>
- 
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=osy8814&card_width=450&count_private=true&show_icons=true&theme=tokyonight)
     
