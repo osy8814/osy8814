@@ -1,3 +1,8 @@
+<div align="center"> 
+    
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=SeoungYoung&fontSize=80&Align=Center)
+
+</div>
 
 <h2>🧾Studying</h2>
 <p align="center">    
@@ -23,8 +28,8 @@
 <h2>🎞I did it</h2>
 <div align="center"> 
     
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=osy8814&count_private=true&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=osy8814&card_width=450&count_private=true&show_icons=true&theme=tokyonight)
     
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osy8814&layout=compact&&count_private=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osy8814&layout=compact&card_width=400&count_private=true&theme=tokyonight)
 </div>
 
