@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @osy8814
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning node.js
 <div align="center">
 
 <!---
